@@ -40,7 +40,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/ShilpaKalaShowcase.git](https://github.com/Shraddha966/ShilpaKalaShowcase.git)
+git clone [https://github.com/Shraddha966/ShilpaKalaShowcase.git](https://github.com/Shraddha966/ShilpaKalaShowcase.git)
 
 ---
 
@@ -98,7 +98,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Shraddha B M
 
 ---
 
